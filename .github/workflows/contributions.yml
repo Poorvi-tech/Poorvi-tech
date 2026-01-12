@@ -2,8 +2,11 @@ name: Update Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 */6 * * *' # Runs every 6 hours for more real-time updates
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
