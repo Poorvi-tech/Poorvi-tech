@@ -83,10 +83,9 @@ I can add dynamic charts and per-project contribution breakdowns once I can acce
 
 ## 📫 Contact
 - Email: poorvisahu975@gmail.com
-- Phone: +91 90745 54804
 - Location: Sagar, Madhya Pradesh, India
-- LinkedIn: (add your LinkedIn URL)
-- Portfolio: (add your portfolio URL)
+- LinkedIn: [(add your LinkedIn URL)](https://www.linkedin.com/in/poorvi-sahu-406aaa306/)
+- Portfolio: [(add your portfolio URL)](https://poorvi-portfolio.onrender.com/)
 - GitHub: https://github.com/Poorvi-tech
 
 ---
