@@ -1,91 +1,260 @@
-# Hi, I'm Poorvi Sahu 👋
-Passionate Computer Science Engineering student and Full-Stack Developer — I build responsive, user-friendly, scalable web apps using modern stacks (React, Node.js, Express, MongoDB). I enjoy solving real-world problems with clean code and collaborative teamwork.
+<div align="center">
 
-[![Profile views](https://komarev.com/ghpvc/?username=Poorvi-tech&label=Profile%20views&color=0e75b6)](https://github.com/Poorvi-tech)
+# 👋 Hi, I'm Poorvi Sahu
 
----
+### 🚀 Full-Stack Developer | Computer Science Engineering Student
 
-## 🚀 About Me
-- Full-Stack Web Developer with hands-on experience in ReactJS, Node.js, Express, MongoDB.
-- Strong problem-solver with experience building authentication, REST APIs, realtime features, and integrations (Twilio/WhatsApp).
-- Currently pursuing B.Tech (CSE) at Dr. Hari Singh Gour University, Sagar.
-- Open to internships, freelance projects, and collaboration.
+[![Profile Views](https://komarev.com/ghpvc/?username=Poorvi-tech&color=58A6FF&label=Profile+Views&style=for-the-badge)](https://github.com/Poorvi-tech)
+[![GitHub Followers](https://img.shields.io/github/followers/Poorvi-tech?label=Followers&style=for-the-badge&color=58A6FF)](https://github.com/Poorvi-tech)
+[![GitHub Stars](https://img.shields.io/github/stars/Poorvi-tech?label=Stars&style=for-the-badge&color=58A6FF)](https://github.com/Poorvi-tech)
 
-## 🔭 Current / Notable Internships
-- Full-Stack Developer Intern (Remote) — Jayadhi Limited (UK) (June 2025 - Present): backend development, auth, API integrations.
-- ReactJS Developer Intern — Xcoders, Indore (Mar 2025 - May 2025): React projects and frontend collaboration.
-
-## 🧰 Tech Stack
-- Languages & Frameworks: Java, C++, JavaScript, ReactJS, Next.js, Node.js, Express, TypeScript
-- Databases: MongoDB, SQL
-- Tools & Tech: Git/GitHub, REST APIs, JWT, Firebase, Postman, Multer, Twilio
-- Other: Agile teamwork, API integration, problem-solving
-
-## ⭐ GitHub Stats
-[![Poorvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poorvi-tech&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Poorvi-tech)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvi-tech&layout=compact&theme=tokyonight)](https://github.com/Poorvi-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvi-sahu-406aaa306/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://poorvi-portfolio.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorvisahu975@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Poorvi-tech)
 
 ---
 
-## Projects I Built
-Below are the projects I’ve worked on — add links to your repos or demos when available.
+</div>
 
-### Zero Print — Environmental Sustainability Platform
-- Role: Backend architecture, DB design, Authentication (JWT / Firebase)
-- Features: Activity logging, carbon-footprint calculations, gamification, rewards & leaderboards
-- Tech: Node.js, Express, MongoDB, Firebase Auth, REST APIs
-- Demo / Repo: (add link)
+## 🎯 About Me
 
-### WomenLine — AI-Powered Wellness Platform for Women
-- Role: Database & API design, MaCoin wallet, forums, PDF export, WhatsApp bot integration
-- Features: Journals, period tracking, reward system, abuse reporting
-- Tech: Node.js, Express, MongoDB, JWT, Twilio
-- Demo / Repo: (add link)
+Passionate **Full-Stack Developer** and **Computer Science Engineering** student with expertise in building responsive, scalable web applications. I specialize in modern tech stacks including React, Node.js, Express, and MongoDB. I enjoy solving real-world problems through clean code, innovative solutions, and collaborative teamwork.
 
-### ResQnow — Real-time Ambulance Booking
-- Role: Full-stack app, real-time bookings, dashboards, auth
-- Tech: ReactJS, Node.js, Express, MongoDB
-- Demo / Repo: (add link)
-
-### MelodicMart — Music Instruments E-commerce
-- Role: Full-stack e-commerce with immersive sound tools
-- Features: Product catalog, authentication, cart & checkout, piano keyboard, music visualizer, sound customizer
-- Tech: Next.js, React, TypeScript, Tailwind CSS, Node.js, MongoDB
-- Demo / Repo: (add link)
-
-### Hospital — Hospital Management System
-- Role: Desktop app in Java for appointments and staff/patient data
-- Tech: Java, JDBC, SQL
-- Repo: (add link)
+- 🔭 Currently working as **Full-Stack Developer Intern** at Jayadhi Limited (UK)
+- 🎓 Pursuing **B.Tech (CSE)** at Dr. Hari Singh Gour University, Sagar
+- 💡 Open to **internships**, **freelance projects**, and **collaboration**
+- 🌱 Always learning and exploring new technologies
 
 ---
 
-## 📈 Project & Contribution Charts (live)
-I can add dynamic charts and per-project contribution breakdowns once I can access your public repos. For now these are live cards you can embed:
+## 🛠️ Tech Stack
 
-- Profile stats: `https://github-readme-stats.vercel.app/api?username=Poorvi-tech&show_icons=true&theme=tokyonight`
-- Top languages: `https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvi-tech&layout=compact&theme=tokyonight`
-- Example project chart (QuickChart):  
-  `https://quickchart.io/chart?c={type:'pie',data:{labels:['ZeroPrint','WomenLine','ResQnow','MelodicMart','Hospital'],datasets:[{data:[5,4,3,4,2]}]},options:{title:{display:true,text:'Project contributions (example)'}}}`
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
 
 ---
 
-## 📝 Certifications
-- Programming in Java — NPTEL (IIT Kharagpur) — [link]
-- Data Structure and Algorithms using Java — NPTEL (IIT Kharagpur) — [link]
-- Letter of Recommendation — JAYADHI LIMITED — [link]
-- ReactJS — X-CODERS — [link]
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![Poorvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poorvi-tech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&custom_title=GitHub%20Statistics)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Poorvi-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvi-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=10&exclude_repo=github-readme-stats)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poorvi-tech&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF20&custom_title=Contribution%20Activity)
+
+</div>
+
+<div align="center">
+
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Poorvi-tech/Poorvi-tech/output/github-contribution-grid-snake.svg)
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Poorvi-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=2&column=4)
+
+</div>
+
+---
+
+## 🏆 GitHub Metrics
+
+<details>
+<summary><b>📈 View Detailed Analytics</b></summary>
+<br>
+
+![Metrics](https://raw.githubusercontent.com/Poorvi-tech/Poorvi-tech/main/github-metrics.svg)
+
+</details>
+
+<details>
+<summary><b>📊 Repository Statistics</b></summary>
+<br>
+
+<div align="center">
+
+![GitHub Stars](https://img.shields.io/github/stars/Poorvi-tech?label=Total%20Stars&style=for-the-badge&color=FFD700)
+![GitHub Forks](https://img.shields.io/github/forks/Poorvi-tech?label=Total%20Forks&style=for-the-badge&color=58A6FF)
+![GitHub Commits](https://img.shields.io/github/commit-activity/y/Poorvi-tech?label=Yearly%20Commits&style=for-the-badge&color=FF6B6B)
+![GitHub Repositories](https://img.shields.io/badge/Repositories-8+-blue?style=for-the-badge&color=58A6FF)
+
+</div>
+
+</details>
+
+---
+
+## 💼 Professional Experience
+
+### 🔭 Current Internships
+
+#### Full-Stack Developer Intern (Remote)
+**Jayadhi Limited (UK)** | *June 2025 - Present*
+- Developed robust backend architecture and RESTful APIs
+- Implemented authentication & authorization systems
+- Integrated third-party APIs and services
+- Collaborated with international remote team
+
+#### ReactJS Developer Intern
+**Xcoders, Indore** | *Mar 2025 - May 2025*
+- Built responsive React applications
+- Collaborated on frontend development projects
+- Participated in code reviews and agile processes
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌱 Zero Print — Environmental Sustainability Platform
+**Backend Architecture | Database Design | Authentication**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+
+*Activity logging, carbon-footprint calculations, gamification, rewards & leaderboards*
+
+**Tech Stack:** Node.js, Express, MongoDB, Firebase Auth, REST APIs
+
+[🔗 Repository](#) | [🌐 Live Demo](#)
+
+---
+
+### 💜 WomenLine — AI-Powered Wellness Platform for Women
+**Full-Stack Development | API Integration | Database Design**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white)
+
+*Journals, period tracking, reward system, MaCoin wallet, WhatsApp bot integration*
+
+**Tech Stack:** Node.js, Express, MongoDB, JWT, Twilio
+
+[🔗 Repository](#) | [🌐 Live Demo](#)
+
+---
+
+### 🚑 ResQnow — Real-time Ambulance Booking
+**Full-Stack Application | Real-time Features**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+*Real-time bookings, dashboards, authentication system*
+
+**Tech Stack:** ReactJS, Node.js, Express, MongoDB
+
+[🔗 Repository](#) | [🌐 Live Demo](#)
+
+---
+
+### 🎵 MelodicMart — Music Instruments E-commerce
+**Full-Stack E-commerce | Interactive Features**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+*Product catalog, authentication, cart & checkout, piano keyboard, music visualizer*
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, MongoDB
+
+[🔗 Repository](#) | [🌐 Live Demo](#)
+
+---
+
+### 🏥 Hospital Management System
+**Desktop Application | Database Management**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+*Appointments management, staff/patient data handling*
+
+**Tech Stack:** Java, JDBC, SQL
+
+[🔗 Repository](#)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Programming in Java** — NPTEL (IIT Kharagpur) — [View Certificate](#)
+- 🏅 **Data Structure and Algorithms using Java** — NPTEL (IIT Kharagpur) — [View Certificate](#)
+- 🏅 **Letter of Recommendation** — JAYADHI LIMITED — [View Letter](#)
+- 🏅 **ReactJS Certification** — X-CODERS — [View Certificate](#)
+
+---
 
 ## 🎓 Education
-- B.Tech (CSE) — Dr. Hari Singh Gour University, Sagar — Pursuing  
-- 12th — Govt. Excellence School, Sagar  
-- 10th — Pearl Public Higher Secondary School, Sagar
 
-## 📫 Contact
-- Email: poorvisahu975@gmail.com
-- Location: Sagar, Madhya Pradesh, India
-- LinkedIn: [(add your LinkedIn URL)](https://www.linkedin.com/in/poorvi-sahu-406aaa306/)
-- Portfolio: [(add your portfolio URL)](https://poorvi-portfolio.onrender.com/)
-- GitHub: https://github.com/Poorvi-tech
+- **B.Tech (Computer Science Engineering)**  
+  *Dr. Hari Singh Gour University, Sagar* | *Pursuing*
+- **12th Grade**  
+  *Govt. Excellence School, Sagar*
+- **10th Grade**  
+  *Pearl Public Higher Secondary School, Sagar*
 
 ---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvi-sahu-406aaa306/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://poorvi-portfolio.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorvisahu975@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Poorvi-tech)
+
+**📍 Location:** Sagar, Madhya Pradesh, India
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Quick Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poorvi-tech&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+
+**Thanks for visiting!** ⭐ Star the repos you like!
+
+![Visitor Count](https://profile-counter.glitch.me/Poorvi-tech/count.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Poorvi Sahu**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Poorvi-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvi-sahu-406aaa306/)
+
+</div>
