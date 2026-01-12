@@ -54,17 +54,17 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poorvi-tech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Poorvi-tech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Poorvi-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF)
+<img src="https://github-readme-streak-stats.demolab.com/?user=Poorvi-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvi-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=10)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvi-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=10" alt="Top Languages" />
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poorvi-tech&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF20)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Poorvi-tech&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF20" alt="Activity Graph" />
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Poorvi-tech/Poorvi-tech/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Poorvi-tech/Poorvi-tech/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Poorvi-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=2&column=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Poorvi-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=2&column=4" alt="GitHub Trophy" />
 
 </div>
 
