@@ -50,37 +50,7 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poorvi-tech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true)
-
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Poorvi-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvi-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=10)
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poorvi-tech&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF20)
-
-
-![Contribution Snake](https://raw.githubusercontent.com/Poorvi-tech/Poorvi-tech/output/github-contribution-grid-snake.svg)
-
-
-**📊 Contribution Snake:** *Real-time contribution visualization*
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Poorvi-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=2&column=4)
-
-
-**📈 View live statistics on your GitHub profile:** [github.com/Poorvi-tech](https://github.com/Poorvi-tech)
-
-</div>
-
----
 
 ## 🏆 GitHub Metrics
 
@@ -94,7 +64,7 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 </div>
 
-*To trigger the workflow manually: Go to Actions tab → Generate GitHub Metrics → Run workflow*
+
 
 </details>
 
@@ -151,7 +121,7 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 **Tech Stack:** Node.js, Express, MongoDB, JWT, Twilio
 
-[🔗 Repository](https://github.com/Poorvi-tech/team5555-Womenline) | [🌐 Live Demo](#)
+[🔗 Repository](https://github.com/Poorvi-tech/team5555-Womenline) 
 
 ---
 
@@ -180,7 +150,7 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-[🔗 Repository](https://github.com/Poorvi-tech/Amazon-clone) | [🌐 Live Demo](#)
+[🔗 Repository](https://github.com/Poorvi-tech/Amazon-clone) | [🌐 Live Demo](https://superlative-baklava-7505ec.netlify.app/)
 
 ---
 
@@ -195,7 +165,7 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 **Tech Stack:** HTML, CSS, JavaScript, Weather API
 
-[🔗 Repository](https://github.com/Poorvi-tech/Realtime_Weather_App) | [🌐 Live Demo](#)
+[🔗 Repository](https://github.com/Poorvi-tech/Realtime_Weather_App) | [🌐 Live Demo](https://shiny-tanuki-4aa639.netlify.app/)
 
 ---
 
@@ -208,7 +178,7 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 **Tech Stack:** JavaScript
 
-[🔗 Repository](https://github.com/Poorvi-tech/personal-tracker-challenge) | [🌐 Live Demo](#)
+[🔗 Repository](https://github.com/Poorvi-tech/personal-tracker-challenge) 
 
 ---
 
@@ -221,7 +191,41 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 **Tech Stack:** JavaScript
 
-[🔗 Repository](https://github.com/Poorvi-tech/digital-health-tool) | [🌐 Live Demo](#)
+[🔗 Repository](https://github.com/Poorvi-tech/digital-health-tool) 
+
+---
+
+### 🚑 Ambulance Booking: ResQnow
+**Full-stack web app | Real-time booking system**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+*ResQnow is a life-saving ambulance booking application that connects patients with nearby ambulances in real-time. The platform features secure login/signup authentication, real-time ambulance tracking, responsive dashboards for both patients and drivers, and an efficient booking system. It ensures quick response times and provides critical information to medical personnel before arrival.*
+
+**Tech Stack:** ReactJS, Node.js, Express, MongoDB
+
+[🔗 Repository](https://github.com/Poorvi-tech/resQNow_Ambulance_Booking) | [🌐 Live Demo](https://golden-fox-687708.netlify.app)
+
+---
+
+### 🎵 MelodicMart - Music Instruments Store
+**E-commerce Platform | Interactive Features**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+*MelodicMart is a cutting-edge e-commerce platform designed specifically for musical instruments. It features an interactive sound customizer that allows customers to try instruments before purchasing, a visual showcase for featured products, and a rhythm builder for creating and sharing musical patterns. The platform also includes a musical quiz to engage users and test their music knowledge.*
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js, Express, MongoDB
+
+[🔗 Repository](https://github.com/Poorvi-tech/MelodicMart) | [🌐 Live Demo](https://melodicmart.vercel.app)
 
 </div>
 
@@ -262,17 +266,7 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 ---
 
-<div align="center">
 
-### ⚡ Quick Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poorvi-tech&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-**Thanks for visiting!** ⭐ Star the repos you like!
-
-![Visitor Count](https://profile-counter.glitch.me/Poorvi-tech/count.svg)
-
-</div>
 
 ---
 
