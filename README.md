@@ -53,18 +53,14 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![Poorvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poorvi-tech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&custom_title=GitHub%20Statistics)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poorvi-tech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Poorvi-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvi-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=10&exclude_repo=github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvi-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=10)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poorvi-tech&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF20&custom_title=Contribution%20Activity)
-
-</div>
-
-<div align="center">
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poorvi-tech&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF20)
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Poorvi-tech/Poorvi-tech/output/github-contribution-grid-snake.svg)
 
@@ -80,7 +76,15 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 <summary><b>📈 View Detailed Analytics</b></summary>
 <br>
 
+<div align="center">
+
+*Metrics are generated automatically via GitHub Actions. The image will appear after the workflow runs.*
+
 ![Metrics](https://raw.githubusercontent.com/Poorvi-tech/Poorvi-tech/main/github-metrics.svg)
+
+</div>
+
+*To trigger the workflow manually: Go to Actions tab → Generate GitHub Metrics → Run workflow*
 
 </details>
 
@@ -90,10 +94,11 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/Poorvi-tech?label=Total%20Stars&style=for-the-badge&color=FFD700)
-![GitHub Forks](https://img.shields.io/github/forks/Poorvi-tech?label=Total%20Forks&style=for-the-badge&color=58A6FF)
-![GitHub Commits](https://img.shields.io/github/commit-activity/y/Poorvi-tech?label=Yearly%20Commits&style=for-the-badge&color=FF6B6B)
-![GitHub Repositories](https://img.shields.io/badge/Repositories-8+-blue?style=for-the-badge&color=58A6FF)
+![GitHub Stars](https://img.shields.io/github/stars/Poorvi-tech?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/Poorvi-tech?label=Followers&style=for-the-badge&color=58A6FF&logo=github)
+![GitHub Repositories](https://img.shields.io/badge/Public%20Repos-15-blue?style=for-the-badge&color=58A6FF&logo=github)
+
+*Note: Detailed commit statistics are displayed in the GitHub Stats card above*
 
 </div>
 
@@ -124,25 +129,10 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 <div align="center">
 
-### 🌱 Zero Print — Environmental Sustainability Platform
-**Backend Architecture | Database Design | Authentication**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-
-*Activity logging, carbon-footprint calculations, gamification, rewards & leaderboards*
-
-**Tech Stack:** Node.js, Express, MongoDB, Firebase Auth, REST APIs
-
-[🔗 Repository](#) | [🌐 Live Demo](#)
-
----
-
 ### 💜 WomenLine — AI-Powered Wellness Platform for Women
 **Full-Stack Development | API Integration | Database Design**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white)
@@ -151,37 +141,7 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 **Tech Stack:** Node.js, Express, MongoDB, JWT, Twilio
 
-[🔗 Repository](#) | [🌐 Live Demo](#)
-
----
-
-### 🚑 ResQnow — Real-time Ambulance Booking
-**Full-Stack Application | Real-time Features**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-*Real-time bookings, dashboards, authentication system*
-
-**Tech Stack:** ReactJS, Node.js, Express, MongoDB
-
-[🔗 Repository](#) | [🌐 Live Demo](#)
-
----
-
-### 🎵 MelodicMart — Music Instruments E-commerce
-**Full-Stack E-commerce | Interactive Features**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-*Product catalog, authentication, cart & checkout, piano keyboard, music visualizer*
-
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, MongoDB
-
-[🔗 Repository](#) | [🌐 Live Demo](#)
+[🔗 Repository](https://github.com/Poorvi-tech/team5555-Womenline) | [🌐 Live Demo](#)
 
 ---
 
@@ -191,11 +151,67 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-*Appointments management, staff/patient data handling*
+*Appointments management, staff/patient data handling, desktop application*
 
 **Tech Stack:** Java, JDBC, SQL
 
-[🔗 Repository](#)
+[🔗 Repository](https://github.com/Poorvi-tech/Hospital_Management_System)
+
+---
+
+### 🛒 Amazon Clone
+**E-commerce Platform | Frontend Development**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+*E-commerce platform clone with product listings, cart functionality, and responsive design*
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+[🔗 Repository](https://github.com/Poorvi-tech/Amazon-clone) | [🌐 Live Demo](#)
+
+---
+
+### 🌤️ Realtime Weather App
+**Weather Application | API Integration**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+*Real-time weather information display using weather API integration*
+
+**Tech Stack:** HTML, CSS, JavaScript, Weather API
+
+[🔗 Repository](https://github.com/Poorvi-tech/Realtime_Weather_App) | [🌐 Live Demo](#)
+
+---
+
+### 📊 Personal Tracker Challenge
+**Personal Productivity | Task Management**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+*Personal tracking application for managing tasks and challenges*
+
+**Tech Stack:** JavaScript
+
+[🔗 Repository](https://github.com/Poorvi-tech/personal-tracker-challenge) | [🌐 Live Demo](#)
+
+---
+
+### 💊 Digital Health Tool
+**Healthcare Application | Health Tracking**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+*Digital health tracking and management tool*
+
+**Tech Stack:** JavaScript
+
+[🔗 Repository](https://github.com/Poorvi-tech/digital-health-tool) | [🌐 Live Demo](#)
 
 </div>
 
@@ -203,10 +219,10 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 
 ## 📜 Certifications
 
-- 🏅 **Programming in Java** — NPTEL (IIT Kharagpur) — [View Certificate](#)
-- 🏅 **Data Structure and Algorithms using Java** — NPTEL (IIT Kharagpur) — [View Certificate](#)
-- 🏅 **Letter of Recommendation** — JAYADHI LIMITED — [View Letter](#)
-- 🏅 **ReactJS Certification** — X-CODERS — [View Certificate](#)
+- 🏅 **Programming in Java** — NPTEL (IIT Kharagpur) — [View Certificate](https://www.linkedin.com/posts/poorvi-sahu-406aaa306_programming-in-java-nptel-certification-activity-7331929702233735168-lFXn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4dx8YBjn0oFkygfuyo_o4RbuxA65RvHBE)
+- 🏅 **Data Structure and Algorithms using Java** — NPTEL (IIT Kharagpur) — [View Certificate](https://www.linkedin.com/posts/poorvi-sahu-406aaa306_dsa-using-java-nptel-certification-iit-activity-7394297122554261504-yk9e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4dx8YBjn0oFkygfuyo_o4RbuxA65RvHBE)
+- 🏅 **Letter of Recommendation** — JAYADHI LIMITED — [View Letter](https://www.linkedin.com/posts/poorvi-sahu-406aaa306_letter-of-recommendation-internship-at-activity-7362728841921871873-prtE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4dx8YBjn0oFkygfuyo_o4RbuxA65RvHBE)
+- 🏅 **ReactJS Certification** — X-CODERS — [View Certificate](https://www.linkedin.com/posts/poorvi-sahu-406aaa306_reactjs-course-completion-certificate-activity-7333499082981695488-cQF8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4dx8YBjn0oFkygfuyo_o4RbuxA65RvHBE)
 
 ---
 
