@@ -55,20 +55,6 @@ Passionate **Full-Stack Developer** and **Computer Science Engineering** student
 ## 🏆 GitHub Metrics
 
 <details>
-<summary><b>📈 View Detailed Analytics</b></summary>
-<br>
-
-<div align="center">
-
-![Metrics](https://github-readme-stats.vercel.app/api?username=Poorvi-tech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true)
-
-</div>
-
-
-
-</details>
-
-<details>
 <summary><b>📊 Repository Statistics</b></summary>
 <br>
 
